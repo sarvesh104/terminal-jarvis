@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Inc.",
+      "buyPrice": 150.25,
+      "quantity": 100,
+      "recordDate": "2023-10-01",
+      "fundamental": "Strong",
+      "sentiment": "Bullish",
+      "priceProduction": "Positive",
+      "isHold": true
+    },
+    {
+      "id": 2,
+      "name": "Microsoft Corporation",
+      "buyPrice": 290.75,
+      "quantity": 50,
+      "recordDate": "2023-10-05",
+      "fundamental": "Solid",
+      "sentiment": "Bullish",
+      "priceProduction": "Positive",
+      "isHold": false
+    },
+    {
+      "id": 3,
+      "name": "Microsoft",
+      "buyPrice": 290.75,
+      "quantity": 50,
+      "recordDate": "2023-10-05",
+      "fundamental": "Solid",
+      "sentiment": "Bullish",
+      "priceProduction": "Positive",
+      "isHold": false
+    }
+  ]
+  
