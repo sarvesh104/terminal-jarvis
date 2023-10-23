@@ -207,7 +207,7 @@ const Header = () => {
 
             <Box sx={{ paddingLeft:"5px" }}>
               {anchorElMore ? (
-                <ExpandLessIcon fontSize="large" color="#858585" />
+                <ExpandLessIcon fontSize="medium" color="#858585" />
               ) : (
                 <img
                   src={DownArrowIcon}
